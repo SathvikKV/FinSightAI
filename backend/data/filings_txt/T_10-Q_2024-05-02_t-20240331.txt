@@ -1,0 +1,2286 @@
+t-20240331
+false
+Q1
+2024
+--12-31
+0000732717
+21
+0000732717
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:SeriesAPreferredStockMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:SeriesCPreferredStockMember
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc2400GlobalNotesDueMarch152024Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTIncFloatingRateGlobalNotesMarch6Due2025Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc3550GlobalNotesDueNovember182025Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc3500GlobalNotesDueDecember172025Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc0250GlobalNotesDueMarch42026Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc1800GlobalNotesDueSeptember52026Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc2900PercentGlobalNotesDueDecember42026Member
+2024-01-01
+2024-03-31
+0000732717
+t:AttInc1600GlobalNotesDueMay192028Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc2350GlobalNotesDueSeptember52029Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc4375GlobalNotesDueSeptember142029Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc2600GlobalNotesDueDecember172029Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc0800GlobalNotesDueMarch42030Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc3950GlobalNotesDueApril302031Member
+2024-01-01
+2024-03-31
+0000732717
+t:AttInc2050GlobalNotesDueMay192032Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc3550GlobalNotesDueDecember172032Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc5200GlobalNotesDueNovember182033Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc3375GlobalNotesDueMarch152034Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc4300GlobalNotesDueNovember182034Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc2450GlobalNotesDueMarch152035Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc3150GlobalNotesDueSeptember42036Member
+2024-01-01
+2024-03-31
+0000732717
+t:AttInc2600GlobalNotesDueMay192038Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc1800GlobalNotesDueSeptember142039Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc7000GlobalNotesDueApril302040Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc4250GlobalNotesDueJune12043Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc4875GlobalNotesDueJune12044Member
+2024-01-01
+2024-03-31
+0000732717
+t:AttInc4000GlobalNotesDueJune12049Member
+2024-01-01
+2024-03-31
+0000732717
+t:AttInc4250GlobalNotesDueMarch12050Member
+2024-01-01
+2024-03-31
+0000732717
+t:AttInc3750GlobalNotesDueSeptember12050Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc5350GlobalNotesDueNovember12066Member
+2024-01-01
+2024-03-31
+0000732717
+t:ATTInc5625GlobalNotesDueAugust12067Member
+2024-01-01
+2024-03-31
+0000732717
+2024-04-25
+xbrli:shares
+0000732717
+t:ServiceAndOtherMember
+2024-01-01
+2024-03-31
+iso4217:USD
+0000732717
+t:ServiceAndOtherMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:ProductMember
+2023-01-01
+2023-03-31
+0000732717
+2023-01-01
+2023-03-31
+iso4217:USD
+xbrli:shares
+0000732717
+2024-03-31
+0000732717
+2023-12-31
+0000732717
+us-gaap:SeriesAPreferredStockMember
+2024-03-31
+0000732717
+us-gaap:SeriesAPreferredStockMember
+2023-12-31
+0000732717
+us-gaap:SeriesBPreferredStockMember
+2024-03-31
+0000732717
+us-gaap:SeriesBPreferredStockMember
+2023-12-31
+0000732717
+us-gaap:SeriesCPreferredStockMember
+2023-12-31
+0000732717
+us-gaap:SeriesCPreferredStockMember
+2024-03-31
+0000732717
+2022-12-31
+0000732717
+2023-03-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2023-12-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2022-12-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2024-03-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesAPreferredStockMember
+2023-03-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2023-12-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2022-12-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2024-03-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesBPreferredStockMember
+2023-03-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesCPreferredStockMember
+2023-12-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesCPreferredStockMember
+2022-12-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesCPreferredStockMember
+2024-03-31
+0000732717
+us-gaap:PreferredStockMember
+us-gaap:SeriesCPreferredStockMember
+2023-03-31
+0000732717
+us-gaap:CommonStockMember
+2023-12-31
+0000732717
+us-gaap:CommonStockMember
+2022-12-31
+0000732717
+us-gaap:CommonStockMember
+2024-03-31
+0000732717
+us-gaap:CommonStockMember
+2023-03-31
+0000732717
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0000732717
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0000732717
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0000732717
+us-gaap:AdditionalPaidInCapitalMember
+2023-03-31
+0000732717
+us-gaap:RetainedEarningsMember
+2023-12-31
+0000732717
+us-gaap:RetainedEarningsMember
+2022-12-31
+0000732717
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:RetainedEarningsMember
+2024-03-31
+0000732717
+us-gaap:RetainedEarningsMember
+2023-03-31
+0000732717
+us-gaap:TreasuryStockCommonMember
+2023-12-31
+0000732717
+us-gaap:TreasuryStockCommonMember
+2022-12-31
+0000732717
+us-gaap:TreasuryStockCommonMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:TreasuryStockCommonMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:TreasuryStockCommonMember
+2024-03-31
+0000732717
+us-gaap:TreasuryStockCommonMember
+2023-03-31
+0000732717
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0000732717
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0000732717
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0000732717
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-03-31
+0000732717
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0000732717
+us-gaap:NoncontrollingInterestMember
+2022-12-31
+0000732717
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:NoncontrollingInterestMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:NoncontrollingInterestMember
+2024-03-31
+0000732717
+us-gaap:NoncontrollingInterestMember
+2023-03-31
+0000732717
+t:ATTMobilityIILLCPreferredInterestConversionMember
+2024-01-01
+2024-03-31
+0000732717
+t:ATTMobilityIILLCPreferredInterestConversionMember
+2023-01-01
+2023-03-31
+0000732717
+t:OtherATTUnitsMember
+2024-01-01
+2024-03-31
+0000732717
+t:OtherATTUnitsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-12-31
+0000732717
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-12-31
+0000732717
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-12-31
+0000732717
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-12-31
+0000732717
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-03-31
+0000732717
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2024-03-31
+0000732717
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2024-03-31
+0000732717
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-03-31
+0000732717
+us-gaap:AccumulatedTranslationAdjustmentMember
+2022-12-31
+0000732717
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2022-12-31
+0000732717
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2022-12-31
+0000732717
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2022-12-31
+0000732717
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AccumulatedTranslationAdjustmentMember
+2023-03-31
+0000732717
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2023-03-31
+0000732717
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2023-03-31
+0000732717
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2023-03-31
+t:segment
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-03-31
+0000732717
+t:DTVRelatedRetainedCostsMember
+2024-01-01
+2024-03-31
+0000732717
+t:ParentAdministrationSupportMember
+2024-01-01
+2024-03-31
+0000732717
+t:SecuritizationFeesMember
+2024-01-01
+2024-03-31
+0000732717
+t:ValuePortfolioMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0000732717
+t:SignificantItemsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:CorporateAndOtherMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+2023-01-01
+2023-03-31
+0000732717
+t:DTVRelatedRetainedCostsMember
+2023-01-01
+2023-03-31
+0000732717
+t:ParentAdministrationSupportMember
+2023-01-01
+2023-03-31
+0000732717
+t:SecuritizationFeesMember
+2023-01-01
+2023-03-31
+0000732717
+t:ValuePortfolioMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:CorporateNonSegmentMember
+2023-01-01
+2023-03-31
+0000732717
+t:SignificantItemsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:CorporateAndOtherMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:MaterialReconcilingItemsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:MaterialReconcilingItemsMember
+2023-01-01
+2023-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:WirelessServiceMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:WirelessServiceMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:WirelessServiceMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+t:WirelessServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:WirelessServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:WirelessServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:BusinessServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:IPBroadbandMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:IPBroadbandMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:IPBroadbandMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+t:IPBroadbandMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:IPBroadbandMember
+2024-01-01
+2024-03-31
+0000732717
+t:IPBroadbandMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:LatinAmericaBusinessSegmentMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:LegacyVoiceAndDataMember
+2024-01-01
+2024-03-31
+0000732717
+t:LegacyVoiceAndDataMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:CommunicationsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:LatinAmericaBusinessSegmentMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:OtherServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:OtherServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ServiceMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+us-gaap:ServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+us-gaap:ServiceMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:ServiceMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+us-gaap:ProductMember
+2024-01-01
+2024-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:WirelessServiceMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:WirelessServiceMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:WirelessServiceMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+t:WirelessServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:WirelessServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:WirelessServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:MobilityMember
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessServiceMember
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:BusinessServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:IPBroadbandMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:IPBroadbandMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:IPBroadbandMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+t:IPBroadbandMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:IPBroadbandMember
+2023-01-01
+2023-03-31
+0000732717
+t:IPBroadbandMember
+2023-01-01
+2023-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LegacyVoiceAndDataMember
+t:LatinAmericaBusinessSegmentMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:LegacyVoiceAndDataMember
+2023-01-01
+2023-03-31
+0000732717
+t:LegacyVoiceAndDataMember
+2023-01-01
+2023-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:CommunicationsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:OtherServiceMember
+t:LatinAmericaBusinessSegmentMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+t:OtherServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:OtherServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ServiceMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+us-gaap:ServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+us-gaap:ServiceMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:ServiceMember
+2023-01-01
+2023-03-31
+0000732717
+t:MobilityMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ProductMember
+2023-01-01
+2023-03-31
+0000732717
+t:BusinessWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ProductMember
+2023-01-01
+2023-03-31
+0000732717
+t:ConsumerWirelineMember
+us-gaap:OperatingSegmentsMember
+t:CommunicationsMember
+us-gaap:ProductMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OperatingSegmentsMember
+t:LatinAmericaBusinessSegmentMember
+us-gaap:ProductMember
+2023-01-01
+2023-03-31
+0000732717
+t:CorporateAndReconcilingItemsMember
+us-gaap:ProductMember
+2023-01-01
+2023-03-31
+0000732717
+srt:MinimumMember
+t:DeferredCustomerContractFulfillmentCostMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+srt:MinimumMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractFulfillmentCostMember
+srt:MaximumMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+srt:MaximumMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2023-12-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+us-gaap:OtherAssetsMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+us-gaap:OtherAssetsMember
+2023-12-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+2023-12-31
+0000732717
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+t:DeferredCustomerContractFulfillmentCostMember
+2024-03-31
+0000732717
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+t:DeferredCustomerContractFulfillmentCostMember
+2023-12-31
+0000732717
+us-gaap:OtherAssetsMember
+t:DeferredCustomerContractFulfillmentCostMember
+2024-03-31
+0000732717
+us-gaap:OtherAssetsMember
+t:DeferredCustomerContractFulfillmentCostMember
+2023-12-31
+0000732717
+t:DeferredCustomerContractFulfillmentCostMember
+2024-03-31
+0000732717
+t:DeferredCustomerContractFulfillmentCostMember
+2023-12-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+2024-01-01
+2024-03-31
+0000732717
+t:DeferredCustomerContractAcquisitionCostsMember
+2023-01-01
+2023-03-31
+0000732717
+t:DeferredCustomerContractFulfillmentCostMember
+2024-01-01
+2024-03-31
+0000732717
+t:DeferredCustomerContractFulfillmentCostMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2024-03-31
+0000732717
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+2023-12-31
+0000732717
+us-gaap:OtherCurrentLiabilitiesMember
+2024-03-31
+0000732717
+us-gaap:OtherCurrentLiabilitiesMember
+2023-12-31
+0000732717
+2024-04-01
+2024-03-31
+xbrli:pure
+0000732717
+us-gaap:PensionPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:PensionPlansDefinedBenefitMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:SupplementalEmployeeRetirementPlanDefinedBenefitMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:SupplementalEmployeeRetirementPlanDefinedBenefitMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0000732717
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-03-31
+0000732717
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2023-12-31
+0000732717
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2023-12-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel1Member
+country:US
+2024-03-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel2Member
+country:US
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:SecuritiesInvestmentMember
+country:US
+2024-03-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+country:US
+2024-03-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:NonUsMember
+2024-03-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:NonUsMember
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:SecuritiesInvestmentMember
+us-gaap:NonUsMember
+2024-03-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:NonUsMember
+2024-03-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+us-gaap:FairValueInputsLevel1Member
+2024-03-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+us-gaap:FairValueInputsLevel2Member
+2024-03-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+us-gaap:FairValueInputsLevel3Member
+2024-03-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel1Member
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel2Member
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CrossCurrencyInterestRateContractMember
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CrossCurrencyInterestRateContractMember
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CrossCurrencyInterestRateContractMember
+2024-03-31
+0000732717
+us-gaap:CrossCurrencyInterestRateContractMember
+2024-03-31
+0000732717
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueInputsLevel1Member
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InterestRateSwapMember
+2024-03-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:InterestRateSwapMember
+2024-03-31
+0000732717
+us-gaap:InterestRateSwapMember
+2024-03-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel1Member
+country:US
+2023-12-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel2Member
+country:US
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:SecuritiesInvestmentMember
+country:US
+2023-12-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+country:US
+2023-12-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:NonUsMember
+2023-12-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:NonUsMember
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:SecuritiesInvestmentMember
+us-gaap:NonUsMember
+2023-12-31
+0000732717
+us-gaap:SecuritiesInvestmentMember
+us-gaap:NonUsMember
+2023-12-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0000732717
+us-gaap:FixedIncomeInvestmentsMember
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel1Member
+us-gaap:CrossCurrencyInterestRateContractMember
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CrossCurrencyInterestRateContractMember
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CrossCurrencyInterestRateContractMember
+2023-12-31
+0000732717
+us-gaap:CrossCurrencyInterestRateContractMember
+2023-12-31
+0000732717
+us-gaap:InterestRateSwapMember
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel2Member
+us-gaap:InterestRateSwapMember
+2023-12-31
+0000732717
+us-gaap:FairValueInputsLevel3Member
+us-gaap:InterestRateSwapMember
+2023-12-31
+0000732717
+us-gaap:InterestRateSwapMember
+2023-12-31
+0000732717
+us-gaap:MeasurementInputEntityCreditRiskMember
+2024-03-31
+0000732717
+us-gaap:InterestRateSwapMember
+2024-03-31
+0000732717
+us-gaap:InterestRateSwapMember
+2023-12-31
+0000732717
+us-gaap:CrossCurrencyInterestRateContractMember
+2024-03-31
+0000732717
+us-gaap:CrossCurrencyInterestRateContractMember
+2023-12-31
+0000732717
+us-gaap:InterestRateSwapMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:InterestRateSwapMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:CrossCurrencyInterestRateContractMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:CrossCurrencyInterestRateContractMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:ForeignExchangeContractMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:ForeignExchangeContractMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:InterestExpenseMember
+us-gaap:InterestRateLockCommitmentsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:InterestExpenseMember
+us-gaap:InterestRateLockCommitmentsMember
+2023-01-01
+2023-03-31
+0000732717
+t:EquipmentInstallmentProgramMember
+2024-01-01
+2024-03-31
+0000732717
+t:EquipmentInstallmentProgramMember
+2023-01-01
+2023-03-31
+0000732717
+t:RevolvingReceivablesProgramMember
+2024-01-01
+2024-03-31
+0000732717
+t:RevolvingReceivablesProgramMember
+2023-01-01
+2023-03-31
+0000732717
+t:OtherSalesOfReceivablesMember
+2024-01-01
+2024-03-31
+0000732717
+t:OtherSalesOfReceivablesMember
+2023-01-01
+2023-03-31
+0000732717
+t:EquipmentInstallmentProgramMember
+2024-03-31
+0000732717
+t:RevolvingReceivablesProgramMember
+2024-03-31
+0000732717
+t:EquipmentInstallmentProgramMember
+2023-12-31
+0000732717
+t:RevolvingReceivablesProgramMember
+2023-12-31
+0000732717
+us-gaap:NotesReceivableMember
+t:EquipmentInstallmentProgramMember
+2024-03-31
+0000732717
+us-gaap:NotesReceivableMember
+t:RevolvingReceivablesProgramMember
+2024-03-31
+0000732717
+us-gaap:NotesReceivableMember
+t:EquipmentInstallmentProgramMember
+2023-12-31
+0000732717
+us-gaap:NotesReceivableMember
+t:RevolvingReceivablesProgramMember
+2023-12-31
+0000732717
+us-gaap:TradeAccountsReceivableMember
+t:EquipmentInstallmentProgramMember
+2024-03-31
+0000732717
+us-gaap:TradeAccountsReceivableMember
+t:RevolvingReceivablesProgramMember
+2024-03-31
+0000732717
+us-gaap:TradeAccountsReceivableMember
+t:EquipmentInstallmentProgramMember
+2023-12-31
+0000732717
+us-gaap:TradeAccountsReceivableMember
+t:RevolvingReceivablesProgramMember
+2023-12-31
+0000732717
+t:EquipmentInstallmentProgramMember
+t:DeferredPurchasePriceMember
+2024-03-31
+0000732717
+t:EquipmentInstallmentProgramMember
+t:DeferredPurchasePriceMember
+2023-12-31
+0000732717
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+t:EquipmentInstallmentProgramMember
+t:DeferredPurchasePriceMember
+2024-03-31
+0000732717
+us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember
+t:EquipmentInstallmentProgramMember
+t:DeferredPurchasePriceMember
+2023-12-31
+0000732717
+t:EquipmentInstallmentProgramMember
+us-gaap:GuaranteeObligationsMember
+2024-03-31
+0000732717
+t:EquipmentInstallmentProgramMember
+us-gaap:GuaranteeObligationsMember
+2023-12-31
+0000732717
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+t:EquipmentInstallmentProgramMember
+us-gaap:GuaranteeObligationsMember
+2024-03-31
+0000732717
+us-gaap:AccountsPayableAndAccruedLiabilitiesMember
+t:EquipmentInstallmentProgramMember
+us-gaap:GuaranteeObligationsMember
+2023-12-31
+0000732717
+us-gaap:AssetPledgedAsCollateralWithoutRightMember
+2024-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2024-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2024-01-01
+2024-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2023-01-01
+2023-03-31
+0000732717
+t:OperatingActivitiesMember
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2024-01-01
+2024-03-31
+0000732717
+t:OperatingActivitiesMember
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+2023-01-01
+2023-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+t:InvestingActivitiesMember
+2024-01-01
+2024-03-31
+0000732717
+t:DIRECTVMember
+us-gaap:EquityMethodInvesteeMember
+t:InvestingActivitiesMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:AssetManagementArrangementMember
+us-gaap:EquityMethodInvesteeMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:AssetManagementArrangementMember
+us-gaap:EquityMethodInvesteeMember
+2023-01-01
+2023-03-31
+0000732717
+t:SupplierFinancingProgramMember
+2024-03-31
+0000732717
+t:SupplierFinancingProgramMember
+2023-12-31
+0000732717
+t:DirectSupplierFinancingProgramMember
+2024-03-31
+0000732717
+t:DirectSupplierFinancingProgramMember
+2023-12-31
+0000732717
+t:VendorFinancingProgramMember
+2024-01-01
+2024-03-31
+0000732717
+t:VendorFinancingProgramMember
+2023-01-01
+2023-03-31
+0000732717
+t:VendorFinancingProgramMember
+2024-03-31
+0000732717
+t:VendorFinancingProgramMember
+2023-12-31
+0000732717
+us-gaap:PropertyPlantAndEquipmentMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:PropertyPlantAndEquipmentMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2023-01-01
+2023-03-31
+0000732717
+us-gaap:LicenseMember
+2024-01-01
+2024-03-31
+0000732717
+us-gaap:LicenseMember
+2023-01-01
+2023-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+For the quarterly period ended
+March 31, 2024
+or
+For the transition period from to
+Commission File Number
+001-08610
+AT&T INC.
+Incorporated under the laws of the State of
+Delaware
+I.R.S. Employer Identification Number
+43-1301883
+208 S. Akard St.
+,
+Dallas
+,
+Texas
+75202
+Telephone Number: (
+210
+)
+821-4105
+Securities registered pursuant to Section 12(b) of the Act:
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes
+☐
+No
+☒
+At April 25, 2024, there were
+7,170,165,104
+common shares outstanding.
+PART I - FINANCIAL INFORMATION
+Item 1. Financial Statements
+See Notes to Consolidated Financial Statements.
+3
+See Notes to Consolidated Financial Statements.
+4
+See Notes to Consolidated Financial Statements.
+5
+6
+See Notes to Consolidated Financial Statements.
+7
+See Notes to Consolidated Financial Statements.
+8
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+Dollars in millions except per share amounts
+NOTE 1. PREPARATION OF INTERIM FINANCIAL STATEMENTS
+Basis of Presentation
+Throughout this document, AT&T Inc. is referred to as “we,” “AT&T” or the “Company.” The consolidated financial statements include the accounts of the Company and subsidiaries and affiliates which we control. AT&T is a holding company whose subsidiaries and affiliates operate worldwide in the telecommunications and technology industries. You should read this document in conjunction with the consolidated financial statements and accompanying notes included in our Annual Report on Form 10-K for the year ended December 31, 2023. The results for the interim periods are not necessarily indicative of those for the full year. These consolidated financial statements include all adjustments that are necessary to present fairly the results for the presented interim periods, consisting of normal recurring accruals and other items.
+All significant intercompany transactions are eliminated in the consolidation process. Investments in subsidiaries and partnerships which we do not control but have significant influence are accounted for under the equity method. Earnings from certain investments accounted for using the equity method are included in our results on a one quarter lag. We also record our proportionate share of our equity method investees’ other comprehensive income (OCI) items, including translation adjustments.
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires management to make estimates and assumptions, including estimates of fair value, probable losses and expenses, that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates.
+NOTE 2. EARNINGS PER SHARE
+A reconciliation of the numerators and denominators of basic and diluted earnings per share for the three months ended March 31, 2024 and 2023, is shown in the table below:
+On April 5, 2023, we repurchased all our Series A Cumulative Perpetual Preferred Membership Interests in AT&T Mobility II LLC (Mobility preferred interests). For periods prior to repurchase, under Accounting Standards Update (ASU) No. 2020-06, “Debt—Debt With Conversion and Other Options (Subtopic 470-20) and Derivatives and Hedging—Contracts in Entity’s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity” (ASU 2020-06), the ability to settle the Mobility preferred interests in stock was reflected in our diluted earnings per share calculation.
+9
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+NOTE 3. OTHER COMPREHENSIVE INCOME
+Changes in the balances of each component included in accumulated OCI are presented below. All amounts are net of tax and exclude noncontrolling interest.
+NOTE 4. SEGMENT INFORMATION
+Our segments are comprised of strategic business units or other operations that offer products and services to different customer segments over various technology platforms and/or in different geographies that are managed accordingly. We have
+two
+reportable segments: Communications and Latin America.
+We also evaluate segment and business unit performance based on EBITDA and/or EBITDA margin, which is defined as operating income excluding depreciation and amortization. EBITDA is used as part of our management reporting and we believe EBITDA to be a relevant and useful measurement to our investors as it measures the cash generation potential of our business units. EBITDA does not give effect to depreciation and amortization expenses incurred in operating income nor is it burdened by cash used for debt service requirements and thus does not reflect available funds for distributions, reinvestment or other discretionary uses. EBITDA margin is EBITDA divided by total revenue.
+10
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The
+Communications segment
+provides wireless and wireline telecom and broadband services to consumers located in the U.S. and businesses globally. Our business strategies reflect integrated product offerings that cut across product lines and utilize shared assets. This segment contains the following business units:
+•
+Mobility
+provides nationwide wireless service and equipment.
+•
+Business Wireline
+provides advanced ethernet-based fiber services, IP Voice and managed professional services, as well as traditional voice and data services and related equipment to business customers. In the first quarter of 2024, we began offering our fixed wireless access product that provides internet services delivered over our 5G wireless network where available.
+•
+Consumer Wireline
+provides broadband services, including fiber connections that provide multi-gig services to residential customers in select locations and our fixed wireless access product that provides home internet services delivered over our 5G wireless network where available. Consumer Wireline also provides legacy telephony voice communication services.
+The
+Latin America segment
+provides wireless services and equipment in Mexico.
+Corporate and Other
+reconciles our segment results to consolidated operating income and income before income taxes.
+Corporate includes
+:
+•
+DTV-related retained costs
+, which are costs previously allocated to the Video business that were retained after the transaction, net of reimbursements from DIRECTV Entertainment Holdings, LLC (DIRECTV) under transition service agreements.
+•
+Parent administration support
+, which includes costs borne by AT&T where the business units do not influence decision making.
+•
+Securitization fees
+associated with our sales of receivables (see Note 8).
+•
+Value portfolio
+, which are businesses no longer integral to our operations or which we no longer actively market.
+Other items consists of
+:
+•
+Certain significant items
+, which includes items associated with the merger and integration of acquired or divested businesses, including amortization of intangible assets, employee separation charges associated with voluntary and/or strategic offers, asset impairments and abandonments and restructuring, and other items for which the segments are not being evaluated.
+“Interest expense” and “Other income (expense) – net” are managed only on a total company basis and are, accordingly, reflected only in consolidated results.
+11
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+12
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The following table is a reconciliation of Segment Operating Income to “Income Before Income Taxes” reported in our consolidated statements of income:
+NOTE 5. REVENUE RECOGNITION
+Revenue Categories
+The following tables set forth reported revenue by category and by business unit:
+13
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+Deferred Customer Contract Acquisition and Fulfillment Costs
+Costs to acquire and fulfill customer contracts, including commissions on service activations for our Mobility, Business Wireline and Consumer Wireline services, are deferred and amortized over the contract period or expected customer relationship life, which typically ranges from
+three years
+to
+five years
+.
+The following table presents the deferred customer contract acquisition and fulfillment costs included on our consolidated balance sheets:
+The following table presents deferred customer contract acquisition and fulfillment cost amortization, which are primarily included in “Selling, general and administrative” and “Other cost of revenues,” respectively, for the three months ended:
+Contract Assets and Liabilities
+A contract asset is recorded when revenue is recognized in advance of our right to bill and receive consideration. The contract asset will decrease as services are provided and billed. For example, when installment sales include promotional discounts (e.g., trade-in device credits) the difference between revenue recognized and consideration received is recorded as a contract asset to be amortized over the contract term.
+Our contract assets primarily relate to our wireless businesses. Promotional equipment sales where we offer handset credits, which are allocated between equipment and service in proportion to their standalone selling prices, when customers commit to a
+14
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+specified service period result in additional contract assets recognized. These contract assets will amortize over the service contract period, resulting in lower future service revenue.
+When consideration is received in advance of the delivery of goods or services, a contract liability is recorded. Reductions in the contract liability will be recorded as we satisfy the performance obligations.
+The following table presents contract assets and liabilities on our consolidated balance sheets:
+Our beginning of period contract liability recorded as customer contract revenue during 2024 was $
+2,675
+.
+Remaining Performance Obligations
+Remaining performance obligations represent services we are required to provide to customers under bundled or discounted arrangements, which are satisfied as services are provided over the contract term. In determining the transaction price allocated, we do not include non-recurring charges and estimates for usage, nor do we consider arrangements with an original expected duration of less than one year, which are primarily prepaid wireless and residential internet agreements.
+Remaining performance obligations associated with business contracts reflect recurring charges billed, adjusted to reflect estimates for sales incentives and revenue adjustments. Performance obligations associated with wireless contracts are estimated using a portfolio approach in which we review all relevant promotional activities, calculating the remaining performance obligation using the average service component for the portfolio and the average device price. As of March 31, 2024, the aggregate amount of the transaction price allocated to remaining performance obligations was $
+38,866
+, of which we expect to recognize approximately
+80
+% by the end of 2025, with the balance recognized thereafter.
+NOTE 6. PENSION AND POSTRETIREMENT BENEFITS
+Many of our employees are covered by one of our noncontributory pension plans. We also provide certain medical, dental, life insurance and death benefits to certain retired employees under various plans and accrue actuarially determined postretirement benefit costs. Our objective in funding these plans, in combination with the standards of the Employee Retirement Income Security Act of 1974, as amended (ERISA), is to accumulate assets sufficient to provide benefits described in the plans to employees upon their retirement. We do not have significant funding requirements in 2024.
+We recognize actuarial gains and losses on pension and postretirement plan assets in our consolidated results as a component of “Other income (expense) – net” at our annual measurement date of December 31, unless earlier remeasurements are required.
+15
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The following table details qualified pension and postretirement benefit costs included in the accompanying consolidated statements of income. The service cost component of net periodic pension (credit) cost is recorded in operating expenses in the consolidated statements of income while the remaining components are recorded in “Other income (expense) – net.”
+We also provide senior- and middle-management employees with nonqualified, unfunded supplemental retirement and savings plans. Net supplemental pension benefits costs not included in the table above were $
+17
+and $
+19
+in the first quarter ended 2024 and 2023, respectively.
+NOTE 7. FAIR VALUE MEASUREMENTS AND DISCLOSURE
+The Fair Value Measurement and Disclosure framework in ASC 820, “Fair Value Measurement,” provides a three-tiered fair value hierarchy based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs and Level 3 includes fair values estimated using significant unobservable inputs.
+The level of an asset or liability within the fair value hierarchy is based on the lowest level of any input that is significant to the fair value measurement. Our valuation techniques maximize the use of observable inputs and minimize the use of unobservable inputs.
+The valuation methodologies described above may produce a fair value calculation that may not be indicative of future net realizable value or reflective of future fair values. We believe our valuation methods are appropriate and consistent with other market participants. The use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different fair value measurement at the reporting date. There have been no changes in the methodologies used since December 31, 2023.
+16
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+Long-Term Debt and Other Financial Instruments
+The carrying amounts and estimated fair values of our long-term debt, including current maturities, and other financial instruments are summarized as follows:
+The carrying amount of debt with an original maturity of less than one year approximates fair value. The fair value measurements used for notes and debentures are considered Level 2 and are determined using various methods, including quoted prices for identical or similar securities in both active and inactive markets.
+Following is the fair value leveling for investment securities that are measured at fair value and derivatives as of March 31, 2024 and December 31, 2023. Derivatives designated as hedging instruments are reflected as “Prepaid and other current assets,” “Other Assets,” “Accounts payable and accrued liabilities,” and “Other noncurrent liabilities” on our consolidated balance sheets.
+17
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+Investment Securities
+Our investment securities include both equity and debt securities that are measured at fair value, as well as equity securities without readily determinable fair values. A substantial portion of the fair values of our investment securities is estimated based on quoted market prices. Investments in equity securities not traded on a national securities exchange are valued at cost, less any impairment, and adjusted for changes resulting from observable, orderly transactions for identical or similar securities. Investments in debt securities not traded on a national securities exchange are valued using pricing models, quoted prices of securities with similar characteristics or discounted cash flows.
+The components comprising total gains and losses in the period on equity securities are as follows:
+At March 31, 2024, available-for-sale debt securities totaling $
+1,188
+have maturities as follows - less than one year: $
+66
+; one to three years: $
+208
+; three to five years: $
+137
+; five or more years: $
+777
+.
+Our cash equivalents (money market securities), short-term investments (certificate and time deposits) and nonrefundable customer deposits are recorded at amortized cost, and the respective carrying amounts approximate fair values. Short-term investments and nonrefundable customer deposits are recorded in “Prepaid and other current assets” and our investment securities are recorded in “Other Assets” on the consolidated balance sheets.
+Derivative Financial Instruments
+We enter into derivative transactions to manage certain market risks, primarily interest rate risk and foreign currency exchange risk. This includes the use of interest rate swaps, interest rate locks, foreign exchange forward contracts and combined interest rate foreign exchange contracts (cross-currency swaps). We do not use derivatives for trading or speculative purposes. We record derivatives on our consolidated balance sheets at fair value that is derived from observable market data, including yield curves and foreign exchange rates (all of our derivatives are Level 2). Cash flows associated with derivative instruments are presented in the same category on the consolidated statements of cash flows as the item being hedged.
+Fair Value Hedging
+Periodically, we enter into and designate fixed-to-floating interest rate swaps as fair value hedges. The purpose of these swaps is to manage interest rate risk by managing our mix of fixed-rate and floating-rate debt. These swaps involve the receipt of fixed-rate amounts for floating interest rate payments over the life of the swaps without exchange of the underlying principal amount.
+We also designate most of our cross-currency swaps and foreign exchange contracts as fair value hedges. The purpose of these contracts is to hedge foreign currency risk associated with changes in spot rates on foreign denominated debt. For cross-currency hedges, we have elected to exclude the change in fair value of the swap related to both time value and cross-currency basis spread from the assessment of hedge effectiveness. For foreign exchange contracts, we have elected to exclude the change in fair value of forward points from the assessment of hedge effectiveness.
+Unrealized and realized gains or losses from fair value hedges impact the same category on the consolidated statements of income as the item being hedged, including the earnings impact of excluded components. In instances where we have elected to exclude components from the assessment of hedge effectiveness related to fair value hedges, unrealized gains or losses on such excluded components are recorded as a component of accumulated OCI and recognized into earnings over the life of the hedging instrument. Unrealized gains on derivatives designated as fair value hedges are recorded at fair value as assets, and unrealized losses are recorded at fair market value as liabilities. Except for excluded components, changes in the fair value of derivative instruments designated as fair value hedges are offset against the change in fair value of the hedged assets or liabilities through earnings. In the three months ended March 31, 2024 and 2023, no ineffectiveness was measured on fair value hedges.
+18
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+Cash Flow Hedging
+We designate some of our cross-currency swaps as cash flow hedges to hedge our exposure to variability in expected future cash flows that are attributable to foreign currency risk and interest rate risk generated from our foreign-denominated debt. These agreements include initial and final exchanges of principal from fixed foreign denominated amounts to fixed U.S. dollar denominated amounts, to be exchanged at a specified rate that is usually determined by the market spot rate upon issuance. They also include an interest rate swap of a fixed or floating foreign denominated interest rate to a fixed U.S. dollar denominated interest rate.
+Unrealized gains on derivatives designated as cash flow hedges are recorded at fair value as assets and unrealized losses are recorded at fair value as liabilities. For derivative instruments designated as cash flow hedges, changes in fair value are reported as a component of accumulated OCI and are reclassified into the consolidated statements of income in the same period the hedged transaction affects earnings.
+Periodically, we enter into and designate interest rate locks to partially hedge the risk of changes in interest payments attributable to increases in the benchmark interest rate during the period leading up to the probable issuance of fixed-rate debt. We designate our interest rate locks as cash flow hedges. Gains and losses when we settle our interest rate locks are amortized into income over the life of the related debt. Over the next 12 months, we expect to reclassify $
+59
+from accumulated OCI to “Interest expense” due to the amortization of net losses on historical interest rate locks.
+Collateral and Credit-Risk
+Contingency
+We have entered into agreements with our derivative counterparties establishing collateral thresholds based on respective credit ratings and netting agreements. At March 31, 2024, we had posted collateral of $
+524
+(a deposit asset) and held collateral of $
+0
+(a receipt liability). Under the agreements, if AT&T’s credit rating had been downgraded two ratings levels by Fitch Ratings, one level by S&P and one level by Moody’s before the final collateral exchange in March, we would have been required to post additional collateral of $
+52
+. If AT&T’s credit rating had been downgraded three ratings levels by Fitch Ratings, two levels by S&P, and two levels by Moody’s, we would have been required to post additional collateral of $
+3,121
+. At December 31, 2023, we had posted collateral of $
+670
+(a deposit asset) and held collateral of $
+5
+(a receipt liability).
+We do not offset the fair value of collateral, whether the right to reclaim cash collateral (a receivable) or the obligation to return cash collateral (a payable) exists, against the fair value of the derivative instruments.
+Following are the notional amounts of our outstanding derivative positions:
+19
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+Following are the related hedged items affecting our financial position and performance:
+In addition, the net swap settlements that accrued and settled in the periods above were offset against “Interest expense.”
+The following table presents information for our cash flow hedging relationships:
+NOTE 8. SALES OF RECEIVABLES
+We have agreements with various third-party financial institutions pertaining to the sales of certain types of our accounts receivable. The most significant of these programs are discussed in detail below and generally consist of (1) receivables arising from equipment installment plans, which are sold for cash and beneficial interests, such as deferred purchase price, when applicable, and (2) revolving trade receivables, which are sold for cash. Under the terms of our agreements for these programs, we continue to service the transferred receivables on behalf of the financial institutions.
+20
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The following table sets forth a summary of cash proceeds received, net of remittances paid, from sales of receivables during the three months ended March 31, 2024 and 2023:
+The sales of receivables did not have a material impact on our consolidated statements of income or to “Total Assets” reported on our consolidated balance sheets. We reflect cash receipts on sold receivables as cash flows from operations in our consolidated statements of cash flows. In the event cash is received on the beneficial interests, those receipts are classified as cash flows from investing activities, when applicable.
+Our equipment installment and revolving receivables programs are discussed in detail below.
+The following table sets forth a summary of the receivables and accounts being serviced:
+Equipment Installment Receivables Program
+We offer our customers the option to purchase certain wireless devices in installments over a specified period of time and, in many cases, once certain conditions are met, they may be eligible to trade in the original equipment for a new device and have the remaining unpaid balance paid or settled.
+We maintain a program under which we transfer a portion of these receivables through our bankruptcy-remote subsidiary in exchange for cash and beneficial interests. In the event a customer trades in a device prior to the end of the installment contract period, we agree to make a payment to the financial institutions equal to any outstanding remaining installment receivable balance. Accordingly, we record a guarantee obligation for this estimated amount at the time the receivables are transferred.
+21
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The following table sets forth a summary of equipment installment receivables sold under this program during the three months ended March 31, 2024 and 2023:
+Beneficial interests, when applicable, and guarantee obligations are initially recorded at estimated fair value and subsequently adjusted for changes in present value of expected cash flows. The estimation of their fair values is based on remaining installment payments expected to be collected and the expected timing and value of device trade-ins. The estimated value of the device trade-ins considers prices offered to us by independent third parties and contemplates changes in value after the launch of a device model. The fair value measurements used for the beneficial interests and the guarantee obligation are considered Level 3 under the Fair Value Measurement and Disclosure framework (see Note 7).
+The following table presents the previously transferred equipment installment receivables, which we repurchased in exchange for the associated beneficial interests during the three months ended March 31, 2024 and 2023:
+At March 31, 2024 and December 31, 2023, our beneficial interests were $
+2,483
+and $
+2,270
+, respectively, of which $
+1,449
+and $
+1,296
+are included in “Prepaid and other current assets” on our consolidated balance sheets, with the remainder in “Other Assets.” The guarantee obligation at March 31, 2024 and December 31, 2023 was $
+335
+and $
+385
+, respectively, of which $
+120
+and $
+111
+are included in “Accounts payable and accrued liabilities” on our consolidated balance sheets, with the remainder in “Other noncurrent liabilities.” Our maximum exposure to loss as a result of selling these equipment installment receivables is limited to the total amount of our beneficial interests and guarantee obligation.
+Revolving Receivables Program
+During the first quarter of 2024, we expanded our revolving agreement to transfer up to $
+1,800
+of certain receivables through our bankruptcy-remote subsidiary to various financial institutions on a recurring basis in exchange for cash equal to the gross receivables transferred. This agreement is subject to renewal on an annual basis and the transfer limit may be expanded or reduced from time to time. As customers pay their balances, we transfer additional receivables into the program, resulting in our gross receivables sold exceeding net cash flow impacts (e.g., collect and reinvest). The transferred receivables are fully guaranteed by our bankruptcy-remote subsidiary, which holds additional receivables in the amount of $
+698
+that are pledged as collateral under this agreement. The transfers are recorded at fair value of the proceeds received and obligations assumed less derecognized receivables. Our maximum exposure to loss related to these receivables transferred is limited to the derecognized amount outstanding.
+22
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The following table sets forth a summary of the revolving receivables sold during the three months ended March 31, 2024 and 2023:
+NOTE 9. TRANSACTIONS WITH DIRECTV
+We account for our investment in DIRECTV under the equity method and record our share of DIRECTV earnings as equity in net income of affiliates, with DIRECTV considered a related party.
+At March 31, 2024, our investment in DIRECTV was $
+685
+.
+The following table sets forth our share of DIRECTV’s earnings included in equity in net income of affiliates and cash distributions received from DIRECTV as of March 31:
+For the three months ended March 31, 2024 and 2023, we billed DIRECTV approximately $
+145
+and $
+240
+under commercial arrangements and transition service agreements, which were recorded as a reduction to the operations and support expenses incurred.
+At
+March 31, 2024
+, we had accounts receivable from DIRECTV of $
+255
+and accounts payable to DIRECTV of $
+41
+.
+We are not committed, implicitly or explicitly, to provide financial or other support, other than as noted above, as our involvement with DIRECTV is limited to the carrying amount of the assets and liabilities recognized on our consolidated balance sheet.
+NOTE 10. SUPPLIER AND VENDOR FINANCING PROGRAMS
+Supplier Financing Program
+We actively manage the timing of our supplier payments for operating items to optimize the use of our cash and seek to make payments on 90-day or greater terms, while providing suppliers with access to bank facilities that permit earlier payment at their cost. Our supplier financing program does not result in changes to our normal, contracted payment cycles or cash from operations.
+At the supplier’s election, they can receive payment of AT&T obligations prior to the scheduled due dates, at a discounted price from the third-party financial institution. The discounted price paid by participating suppliers is based on a variable rate that is
+23
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+indexed to the overnight borrowing rate. We agree to pay the financial institution the stated amount generally within 90 days of receipt of the invoice. We do not have pledged assets or other guarantees under our supplier financing program.
+Suppliers had elected to sell to the third-party financial institutions $
+3,203
+and $
+2,844
+of our outstanding payment obligations as of March 31, 2024 and December 31, 2023, respectively. These amounts are included in “Accounts payable and accrued liabilities” on our consolidated balance sheets. Our supplier financing programs are reported as operating or investing (when capitalizable) activities in our statements of cash flows when paid.
+Direct Supplier Financing
+We also have arrangements with suppliers of handset inventory that allow us to extend the stated payment terms by up to 90 days at an additional cost to us (variable rate extension fee). We had $
+3,917
+of direct supplier financing outstanding at March 31, 2024 and $
+5,442
+as of December 31, 2023, which are included in “Accounts payable and accrued liabilities” on our consolidated balance sheets. Our direct supplier financing is reported as operating activities in our statements of cash flows when paid.
+Vendor Financing
+In connection with capital improvements and the acquisition of other productive assets, we negotiate favorable payment terms of 120 days or more (referred to as vendor financing), which are reported as financing activities in our statements of cash flows when paid. For the three months ended March 31, 2024 and 2023, we recorded vendor financing commitments related to capital investments of $
+99
+and $
+1,021
+, respectively. We had $
+2,021
+vendor financing payables at March 31, 2024, with $
+1,215
+included in “Accounts payable and accrued liabilities” and $
+2,833
+vendor financing payables at December 31, 2023, with $
+1,975
+included in “Accounts payable and accrued liabilities.”
+NOTE 11. ADDITIONAL FINANCIAL INFORMATION
+Cash and Cash Flows
+We typically maintain our restricted cash balances for purchases and sales of certain investment securities and funding of certain deferred compensation benefit payments.
+The following table summarizes cash and cash equivalents and restricted cash balances contained on our consolidated balance sheets:
+24
+AT&T INC.
+MARCH 31, 2024
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) - Continued
+Dollars in millions except per share amounts
+The following table summarizes cash paid during the periods for interest and income taxes:
+25
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Dollars in millions except per share amounts
+OVERVIEW
+AT&T Inc. is referred to as “we,” “AT&T” or the “Company” throughout this document. AT&T products and services are provided or offered by subsidiaries and affiliates of AT&T Inc. under the AT&T brand and not by AT&T Inc., and the names of the particular subsidiaries and affiliates providing the services generally have been omitted. AT&T is a holding company whose subsidiaries and affiliates operate worldwide in the telecommunications and technology industries. You should read this discussion in conjunction with the consolidated financial statements and accompanying notes (Notes).
+We have two reportable segments: Communications and Latin America. Our segment results presented in Note 4 and discussed below follow our internal management reporting. Percentage increases and decreases that are not considered meaningful are denoted with a dash.
+The
+Communications segment
+provides services to businesses and consumers located in the U.S. and businesses globally. Our business strategies reflect integrated product offerings that cut across product lines and utilize shared assets. This segment contains the following business units:
+•
+Mobility
+provides nationwide wireless service and equipment.
+•
+Business Wireline
+provides advanced ethernet-based fiber services, IP Voice and managed professional services, as well as traditional voice and data services and related equipment to business customers. In the first quarter of 2024, we began offering our fixed wireless access product that provides internet services delivered over our 5G wireless network where available.
+•
+Consumer Wireline
+provides broadband services, including fiber connections that provide multi-gig services to residential customers in select locations and our fixed wireless access product that provides home internet services delivered over our 5G wireless network where available. Consumer Wireline also provides legacy telephony voice communication services.
+The
+Latin America segment
+provides wireless services and equipment in Mexico.
+26
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+RESULTS OF OPERATIONS
+Consolidated Results
+Our financial results are summarized in the discussions that follow. Additional analysis is discussed in our “Segment Results” section.
+Operating revenues
+decreased in the first quarter of 2024,
+reflecting declines in Mobility equipment revenue and
+Business Wireline
+service revenues, partially offset by Mobility service, Consumer Wireline and Mexico revenues
+.
+Operations and support expenses
+decreased in the first quarter of 2024, reflecting lower Mobility equipment costs resulting from lower wireless sales volumes. Also contributing to expense declines are our continued transformation efforts that were offset by higher restructuring charges associated with our deployment of Open RAN, our collaboration with Ericsson for commercial scale open radio access network deployment.
+Depreciation and amortization
+expense increased in the first quarter of 2024, primarily due to higher depreciation expense related to ongoing capital spending for strategic initiatives such as fiber and network upgrades. Also contributing to higher depreciation expense was the impact of shortening of estimated economic lives of wireless network equipment that will be replaced earlier than originally anticipated with our deployment of Open RAN.
+Operating income
+decreased in the first quarter of 2024. Our operating income margin in the first quarter decreased from 19.9% in 2023 to 19.5% in 2024.
+Interest expense
+increased in the first quarter of 2024, primarily due to lower capitalized interest associated with spectrum acquisitions, partially offset by lower debt balances. Interest expense in 2023 also included distributions on Mobility preferred interests, which were repurchased on April 5, 2023.
+Equity in net income of affiliates
+decreased in the first quarter of 2024, primarily due to the performance of our investment in DIRECTV, which included our share of a gain on a sale-leaseback transaction by DIRECTV of approximately $100 in the first quarter of 2023 (see Note 9).
+27
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+Other income (expense) – net
+decreased in the first quarter of 2024. The decrease was primarily driven by lower pension and postretirement benefit credits in 2024 (see Note 6), and noncash impairments recognized on a held-for-sale business and an equity investment in a Latin America satellite business.
+Income tax expense
+decreased in the first quarter of 2024. The decrease was primarily driven by lower income before income tax. Our effective tax rate was 23.0% in the first quarter of 2024, versus 22.8% in the comparable period in the prior year.
+Operating revenues
+decreased in the first quarter of 2024, driven by decreases in our Mobility equipment revenue and Business Wireline business unit, which continues to reflect lower demand for legacy services and product simplification. These decreases were partially offset by increases in our Mobility and Consumer Wireline business units, driven by gains in wireless and broadband services.
+Operating income
+remains consistent in the first quarter of 2024. Our Communications segment operating income margin in the first quarter increased from 23.1% in 2023 to 23.4% in 2024.
+28
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+The following tables highlight other key measures of performance for Mobility:
+29
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+Service
+revenue increased in the first quarter of 2024. The increases are largely due to growth from subscriber gains and postpaid phone average revenue per subscriber (ARPU) growth.
+ARPU
+ARPU increased in the first quarter of 2024, reflecting pricing actions taken in the third quarter of 2023.
+Churn
+The effective management of subscriber churn is critical to our ability to maximize revenue growth and to maintain and improve margins. Postpaid churn and postpaid phone-only churn were lower in the first quarter of 2024.
+Equipment
+revenue decreased in the first quarter of 2024, primarily driven by a lower wireless sales volumes.
+Operations and support
+expenses decreased in the first quarter of 2024 largely due to lower equipment costs.
+Depreciation
+expense increased in the first quarter of 2024, primarily due to shortening of estimated economic lives of wireless equipment that will be replaced earlier than originally anticipated with our Open RAN deployment and network transformation, and ongoing capital spending for network upgrades and expansion, which we expect to continue through the remainder of 2024.
+Operating income
+increased in the first quarter of 2024. Our Mobility operating income margin in the first quarter increased from 30.5% in 2023 to 31.4% in 2024. Our Mobility EBITDA margin in the first quarter increased from 40.7% in 2023 to 43.5% in 2024. EBITDA is defined as operating income excluding depreciation and amortization.
+30
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+Service
+revenues decreased in the first quarter of 2024, driven by lower demand for legacy voice, data and network services along with product simplification, partially offset by growth in connectivity services. We expect these trends to continue.
+Equipment
+revenues increased in the first quarter of 2024, driven by higher customer premises equipment sales, which are nonrecurring in nature.
+Operations and support
+expenses decreased in the first quarter of 2024, primarily driven by lower personnel costs associated with ongoing transformation initiatives, lower marketing and customer support expenses, partially offset by higher equipment costs. As part of our transformation activities, we expect operations and support expense improvements through the remainder of 2024 as we further right size our operations in alignment with the strategic direction of the business.
+Depreciation
+expense increased in the first quarter of 2024, primarily due to ongoing capital investment for strategic initiatives such as fiber, which we expect to continue through the remainder of 2024.
+Operating income
+decreased in the first quarter of 2024. Our Business Wireline operating income margin in the first quarter decreased from 7.1% in 2023 to 1.3% in 2024. Our Business Wireline EBITDA margin in the first quarter decreased from 32.0% in 2023 to 29.0% in 2024.
+31
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+The following tables highlight other key measures of performance for Consumer Wireline:
+Broadband
+revenues increased in the first quarter of 2024, driven by an increase in fiber customers, which we expect to continue as we invest further in building our fiber footprint, and higher ARPU due to prior-year promotional pricing, partially offset by declines in copper-based broadband services.
+Legacy voice and data service
+revenues decreased in the first quarter of 2024, reflecting the continued decline in demand for these services in favor of other technologies, such as wireless and fiber services.
+Other service and equipment
+revenues decreased in the first quarter of 2024, reflecting the continued decline in the number of VoIP customers.
+Operations and support
+expenses decreased in the first quarter of 2024. Expense decreases were primarily due to lower customer support costs, partially offset by higher network-related costs as our fiber build scales.
+Depreciation
+expense increased in the first quarter of 2024, primarily due to ongoing capital spending for strategic initiatives such as fiber and network upgrades and expansion, which we expect to continue through the remainder of 2024.
+Operating income
+increased in the first quarter of 2024. Our Consumer Wireline operating income margin in the first quarter increased from 2.9% in 2023 to 6.4% in 2024. Our Consumer Wireline EBITDA margin in the first quarter increased from 29.5% in 2023 to 32.7% in 2024.
+32
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+The following tables highlight other key measures of performance for Mexico:
+Service
+revenues increased in the first quarter of 2024 reflecting favorable foreign exchange impacts and growth in subscribers.
+Equipment
+revenues increased in the first quarter of 2024 driven by higher equipment sales and favorable foreign exchange impacts.
+Operations and support
+expenses increased in the first quarter of 2024 driven by unfavorable impact of foreign exchange and increased equipment costs resulting from higher sales. Approximately 4% of Mexico expenses are U.S. dollar based, with the remainder in the local currency.
+Depreciation and amortization
+expense increased in the first quarter of 2024 driven by unfavorable impact of foreign exchange partially offset by lower in-service assets.
+33
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+Operating income
+improved in the first quarter of 2024. Our Mexico operating income margin in the first quarter increased from (3.4)% in 2023 to 0.3% in 2024. Our Mexico EBITDA margin in the first quarter increased from 16.4% in 2023 to 16.9% in 2024.
+COMPETITIVE AND REGULATORY ENVIRONMENT
+Overview
+AT&T subsidiaries operating within the United States are subject to federal and state regulatory authorities. AT&T subsidiaries operating outside the United States are subject to the jurisdiction of national and supranational regulatory authorities in the markets where service is provided.
+In the Telecommunications Act of 1996 (Telecom Act), Congress established a national policy framework intended to bring the benefits of competition and investment in advanced telecommunications facilities and services to all Americans by opening all telecommunications markets to competition and reducing or eliminating regulatory burdens that harm consumer welfare. Nonetheless, since then, the FCC and some state regulatory commissions have maintained, re-imposed or expanded certain regulatory requirements that were imposed decades ago on our traditional wireline subsidiaries when they operated as legal monopolies. Recently, the FCC’s regulatory approach has depended on control of the executive branch, eliminating a variety of antiquated and unnecessary regulations in a number of areas, while imposing or re-imposing regulations in other areas. We continue to support regulatory and legislative measures and efforts, at both the state and federal levels, to reduce inappropriate regulatory burdens that inhibit our ability to compete effectively and offer needed services to our customers, including initiatives to transition services from traditional networks to all IP-based networks. At the same time, we also seek to ensure that legacy regulations are not further extended to broadband or wireless services, which are subject to vigorous competition.
+Until 2015, the FCC classified fixed and mobile consumer broadband internet access services as information services subject to minimal regulation. In 2015, the FCC reclassified such services as telecommunications services subject to broader regulation by the FCC and imposed “net neutrality rules.” Since then, the FCC has twice reversed course, most recently again reclassifying such services as telecommunications services subject to broader regulation by the FCC on April 25, 2024, in a yet-to-be released order.
+Since 2018, some states have adopted legislation or issued executive orders that established state net neutrality rules. Suits were filed challenging two such laws in California and Vermont. The California statute is now in effect. The challenge to the Vermont statute was stayed pending resolution of a separate challenge to a New York statute raising similar preemption issues. On April 26, 2024, the Second Circuit overturned
+a lower court’s decision that the New York statute was preempted, which could have the effect of restarting the Vermont litigation. We expect additional states may seek to impose net neutrality and other requirements on broadband in the future.
+On November 15, 2021, the Infrastructure Investment and Jobs Act (IIJA) was signed into law. The legislation appropriates $65,000 to support broadband deployment and adoption. The National Telecommunications and Information Agency (NTIA) is responsible for distributing more than $48,000 of this funding, including $42,500 in state grants for broadband deployment projects in unserved and underserved areas through the Broadband, Equity, Access, and Deployment (BEAD) Programs. NTIA and states are in the process of administering these grants. Where appropriate, AT&T may apply for grants under this or other government infrastructure programs. The IIJA also appropriated $14,200 for establishment of the Affordable Connectivity Program (ACP), an FCC-administered monthly, low-income broadband benefit program, replacing the Emergency Broadband Benefit program (established in December 2020 by the Consolidated Appropriations Act, 2021). Qualifying customers can receive up to thirty dollars per month (or seventy-five dollars per month for those on Tribal lands) to assist with their internet bill. AT&T is a participating provider in the ACP program. Absent additional funding, on January 11, 2024 the FCC announced that it currently projects April 2024 to be the last month providers will be fully reimbursed for the ACP benefit provided to enrolled households and established February 7, 2024 as the last date for new enrollments into the program. On March 4, 2024, the FCC issued a Public Notice confirming that April 2024 is the last fully funded month for the ACP benefit.
+On November 15, 2023, the FCC adopted rules to “facilitate” equal access to broadband and prevent digital discrimination in broadband access. The rules, which became effective March 22, 2024, prohibit covered entities from implementing policies or practices not justified by genuine issues of technical or economic feasibility, that differentially impact consumers’ access to broadband internet access service based on prohibited characteristics (including income level, race, and ethnicity) or that have such differential impact, whether intentional or not. The rules broadly apply prospectively to all aspects of an ISP’s service that could impact a consumer’s ability to access broadband, including deployment, marketing, and credit checks, among other things. We may be required to answer complaints alleging that the company has violated the FCC rules and those complaints may seek relief, including changes to our business practices or civil forfeitures that could result in significant costs or reputational harm. It is currently uncertain how the FCC will implement and enforce these new rules. Several business and
+34
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+consumer-oriented associations have filed appeals challenging the rules and those appeals have been consolidated in the Eighth Circuit.
+Privacy-related legislation continues to be adopted or considered in a number of jurisdictions. Legislative, regulatory and litigation actions could result in increased costs of compliance, further regulation or claims against broadband internet access service providers and others, and increased uncertainty in the value and availability of data.
+During 2020-2021, we deployed 5G nationwide on “low band” spectrum on macro towers. Executing on recent spectrum purchases, we announced ongoing construction and continuing deployment of 5G on 3.45 GHz and C-band spectrum in 2022 and beyond. Additional spectrum will be needed industrywide for 5G and future services. In 2023, the federal government released a national spectrum strategy that focused on spectrum sharing but did not include specific timelines to make additional spectrum bands available for 5G and future generations of service. As a result, the federal government’s ability and intent to make sufficient spectrum available to the industry in needed timeframes remains uncertain.
+LIQUIDITY AND CAPITAL RESOURCES
+We had $3,520 in cash and cash equivalents available at March 31, 2024, decreasing $3,202 since December 31, 2023. Cash and cash equivalents included cash of $1,202 and money market funds and other cash equivalents of $2,318. Approximately $1,435 of our cash and cash equivalents were held by our foreign entities in accounts predominantly outside of the U.S. and may be subject to restrictions on repatriation.
+For the first three months of 2024, cash inflows were primarily provided by cash receipts from operations, including cash from our sale and transfer of our receivables to third parties, issuance of commercial paper and distributions from DIRECTV. These inflows were exceeded by cash used to meet the needs of the business, including, but not limited to, payment of operating expenses, repayment of short-term borrowings and long-term debt, funding capital expenditures and vendor financing payments, and dividend payments to stockholders. We maintain availability under our credit facilities and our commercial paper program to meet our short-term liquidity requirements.
+Cash Provided by Operating Activities
+During the first three months of 2024, cash provided by operating activities was $7,547, compared to $6,678 for the first three months of 2023, reflecting operational growth and timing of working capital, including the expansion of committed, cost-efficient receivable sales programs that were partially offset by higher device payments.
+We actively manage the timing of our supplier payments for operating items to optimize the use of our cash. Among other things, we seek to make payments on 90-day or greater terms, while providing the suppliers with access to bank facilities that permit earlier payments at their cost (referred to as supplier financing program). In addition, for payments to suppliers of handset inventory, as part of our working capital initiatives, we have arrangements that allow us to extend the stated payment terms by up to 90 days at an additional cost to us (referred to as direct supplier financing). The net impact of direct supplier financing, including principal and interest payments, was to decrease cash from operating activities $1,584 and $432 for the three months ended March 31, 2024 and 2023, respectively. All supplier financing payments are due within one year. (See Note 10)
+35
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+Cash Used in Investing Activities
+For the first three months of 2024, cash used in investing activities totaled $2,961 and consisted primarily of $3,758 (including interest during construction) for capital expenditures. During the first three months of 2024, we also paid $266 in cash on FirstNet sustainability payment. During the first three months of 2024, we received a return of investment of $194 from DIRECTV representing distributions in excess of cumulative equity in earnings from DIRECTV (see Note 9).
+For capital improvements, we have negotiated favorable vendor payment terms of 120 days or more (referred to as vendor financing) with some of our vendors, which are excluded from capital expenditures and reported as financing activities. For the first three months of 2024, vendor financing payments were $841, compared to $2,113 for the first three months of 2023. Capital expenditures for the first three months of 2024 were $3,758, and when including $841 cash paid for vendor financing, capital investment was $4,599 ($1,849 lower than the prior-year comparable period).
+The vast majority of our capital expenditures are spent on our networks, including product development and related support systems. During the first three months of 2024, we placed $99 of equipment in service under vendor financing arrangements (compared to $1,021 in the prior-year comparable period). The amount of capital expenditures is influenced by demand for services and products, capacity needs and network enhancements.
+Cash Provided by or Used in Financing Activities
+For the first three months of 2024, cash used in financing activities totaled $7,815 and was comprised of debt issuances and repayments, payments of dividends and vendor financing payments.
+A tabular summary of our debt activities for the three months ended March 31, 2024 is as follows:
+The weighted average interest rate of our long-term debt portfolio, including credit agreement borrowings and the impact of derivatives, was approximately 4.2% as of March 31, 2024 and December 31, 2023. We had $128,533 of total notes and debentures outstanding at March 31, 2024. This also included Euro, British pound sterling, Canadian dollar, Swiss franc, and Australian dollar denominated debt that totaled approximately $32,738.
+At March 31, 2024, we had $7,060 of debt maturing within one year, consisting of $2,430 of commercial paper borrowings and $4,630 of long-term debt issuances. The weighted average interest rate on our outstanding short-term borrowings was approximately 5.5% as of March 31, 2024 and 6.0% as of December 31, 2023.
+For the first three months of 2024, we paid $841 of cash under our vendor financing program, compared to $2,113 in the prior-year comparable period. Total vendor financing payables included in our March 31, 2024 consolidated balance sheet were $2,021, with $1,215 due within one year (in “Accounts payable and accrued liabilities”) and the remainder predominantly due within five years (in “Other noncurrent liabilities”).
+At March 31, 2024, we had approximately 144 million shares remaining from our share repurchase authorizations approved by the Board of Directors in 2014.
+We paid dividends on common and preferred shares of $2,034 during the first three months of 2024, compared with $2,014 for the first three months of 2023.
+36
+AT&T INC.
+MARCH 31, 2024
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations- Continued
+Dollars in millions except per share amounts
+Dividends on common stock declared by our Board of Directors totaled $0.2775 per share in the first three months of 2024 and 2023. Our dividend policy considers the expectations and requirements of stockholders, capital funding requirements of AT&T and long-term growth opportunities.
+Credit Facilities
+The following summary of our various credit and loan agreements does not purport to be complete and is qualified in its entirety by reference to each agreement filed as exhibits to our Annual Report on Form 10-K.
+We use credit facilities as a tool in managing our liquidity status. We currently have one $12,000 revolving credit agreement that terminates on November 18, 2028 (Revolving Credit Agreement). No amount was outstanding under the Revolving Credit Agreement as of March 31, 2024.
+We also utilize other external financing sources, which include various credit arrangements supported by government agencies to support network equipment purchases as well as a commercial paper program.
+Our Revolving Credit Agreement contains covenants that are customary for an issuer with investment grade senior debt credit rating as well as a net debt-to-EBITDA financial ratio covenant requiring AT&T to maintain, as of the last day of each fiscal quarter, a ratio of not more than 3.75-to-1. As of March 31, 2024, we were in compliance with the covenants for our credit facilities.
+Collateral Arrangements
+Most of our counterparty collateral arrangements require cash collateral posting by AT&T only when derivative market values exceed certain thresholds. Under these arrangements, which cover the majority of our approximate $37,600 derivative portfolio, counterparties are still required to post collateral. During the first three months of 2024, we received approximately $140 of cash collateral, on a net basis. Cash postings under these arrangements vary with changes in credit ratings and netting agreements. (See Note 7)
+Other
+Our total capital consists of debt (long-term debt and debt maturing within one year), redeemable noncontrolling interest and stockholders’ equity. Our capital structure does not include debt issued by our equity method investments. At March 31, 2024, our debt ratio was 52.4%, compared to 55.9% at March 31, 2023 and 53.5% at December 31, 2023. The debt ratio is affected by the same factors that affect total capital, and reflects our recent debt issuances, repayments and reclassifications related to redemption of noncontrolling interests.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+At March 31, 2024, we had interest rate swaps with a notional value of $1,750 and a fair value of $(2).
+We have fixed-to-fixed and floating-to-fixed cross-currency swaps on foreign currency-denominated debt instruments with a U.S. dollar notional value of $35,825 to hedge our exposure to changes in foreign currency exchange rates and interest rates. These derivatives have been designated as cash flow or fair value hedges with a net fair value of $(3,195) at March 31, 2024. We had no rate locks at March 31, 2024.
+Item 4. Controls and Procedures
+The registrant maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed by the registrant is recorded, processed, summarized, accumulated and communicated to its management, including its principal executive and principal financial officers, to allow timely decisions regarding required disclosure, and reported within the time periods specified in the SEC’s rules and forms. The Chief Executive Officer and Chief Financial Officer have performed an evaluation of the effectiveness of the design and operation of the registrant’s disclosure controls and procedures as of March 31, 2024. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the registrant’s disclosure controls and procedures were effective as of March 31, 2024.
+There have not been any changes in our internal control over financial reporting during our most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+37
+AT&T INC.
+MARCH 31, 2024
+CAUTIONARY LANGUAGE CONCERNING FORWARD-LOOKING STATEMENTS
+Information set forth in this report contains forward-looking statements that are subject to risks and uncertainties, and actual results could differ materially. Many of these factors are discussed in more detail in the “Risk Factors” section herein and in our most recent Form 10-K. We claim the protection of the safe harbor for forward-looking statements provided by the Private Securities Litigation Reform Act of 1995.
+The following factors could cause our future results to differ materially from those expressed in the forward-looking statements:
+•
+Adverse economic and political changes, including inflation and rising interest rates, war or other hostilities, and public health emergencies, and our ability to access financial markets at favorable rates and terms.
+•
+Increases in our benefit plans’ costs, including due to worse-than-assumed investment returns and discount rates, mortality assumptions, medical cost trends, or healthcare laws or regulations.
+•
+The final outcome of FCC and other federal, state or foreign government agency proceedings (including judicial review of such proceedings) and legislative and regulatory efforts involving issues important to our business, including, without limitation, pending Notices of Apparent Liability; the transition from legacy technologies to IP-based infrastructure, including the withdrawal of legacy TDM-based services; universal service; broadband deployment; wireless equipment siting regulations and, in particular, siting for 5G service; E911 services; rules concerning digital discrimination; competition policy; privacy; net neutrality; copyright protection; availability of new spectrum on fair and balanced terms; and wireless and satellite license awards and renewals, and our response to such legislative and regulatory efforts.
+•
+Enactment of or changes to state, local, federal and/or foreign tax laws and regulations, and actions by tax agencies and judicial authorities that reduce our incentive to invest in our networks, and the resolution of disputes with any taxing jurisdictions, pertaining to our subsidiaries and foreign investments.
+•
+U.S. and foreign laws and regulations regarding intellectual property rights protection and privacy, personal data protection and user consent, which are complex and rapidly evolving.
+•
+Our ability to compete in an increasingly competitive industry and against competitors that can offer product/service offerings at lower prices due to lower cost structures and regulatory and legislative actions adverse to us, including non-regulation of comparable alternative technologies and/or government-owned or subsidized networks, and our response to such competition and emerging technologies.
+•
+Disruption in our supply chain for a number of reasons, including, difficulties in obtaining export licenses for certain technology, an inability to secure component parts, lack of suppliers, general business disruption, workforce shortage, natural disasters, safety issues, vendor fraud, and economic and political instability, including disruptions in the capital markets, the outbreak of war or other hostilities, and public health emergencies.
+•
+The development and delivery of attractive and profitable wireless and broadband offerings and devices, including our ability to match speeds offered by competitors; the impact of regulatory and build-out requirements; and the availability, cost and/or reliability of technologies required to provide such offerings.
+•
+Our ability to adequately fund additional wireless spectrum and network development, deployment and maintenance; and regulations and conditions relating to spectrum use, licensing, obtaining additional spectrum, technical standards and deployment and usage, including network management rules.
+•
+Our ability to manage growth in wireless data services, including network quality and acquisition of adequate spectrum at reasonable costs and terms.
+•
+The outcome of pending, threatened or potential litigation and arbitration, including, without limitation, patent and product safety claims by or against third parties or claims based on alleged misconduct by employees.
+•
+The impact from major equipment, software or other failures or errors that disrupt our networks or cyber incidents; the effect of security breaches related to the network or customer information; our inability to obtain handsets, equipment/software or have handsets, equipment/software serviced in a timely and cost-effective manner from suppliers; or severe weather conditions or other natural disasters including earthquakes and forest fires, public health emergencies, energy shortages, wars or terrorist attacks.
+•
+The issuance by the FASB or other accounting oversight bodies of new or revised accounting standards.
+•
+The uncertainty surrounding further congressional action regarding spending and taxation, which may result in changes in government spending and affect the ability and willingness of businesses and consumers to spend in general.
+•
+Our ability to realize or sustain the expected benefits of our business transformation initiatives, which are designed to reduce costs, enable legacy rationalization, streamline distribution, remove redundancies and simplify and improve processes and support functions.
+•
+Our ability to successfully complete divestitures, as well as achieve our expectations regarding the financial impact of completed and/or pending transactions.
+Readers are cautioned that other factors discussed in this report and our most recent Form 10-K, although not enumerated here, also could materially affect our future earnings.
+38
+AT&T INC.
+MARCH 31, 2024
+PART II – OTHER INFORMATION
+Dollars in millions except per share amounts
+Item 1A. Risk Factors
+We discuss in our Annual Report on Form 10-K for the year ended December 31, 2023 various risks that may materially affect our business. We use this section to update this discussion to reflect material developments. For the first quarter of 2024, there were no such material developments.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+(c) A summary of our repurchases of common stock during the first quarter of 2024 is as follows:
+Item 5. Other Information
+(c) During the quarter ended March 31, 2024, no director or officer of the Company adopted or terminated a contract, instruction or written plan for the purchase or sale of securities of the Company intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) and/or a non-Rule 10b5-1 trading arrangement.
+39
+AT&T INC.
+MARCH 31, 2024
+Item 6. Exhibits
+The following exhibits are filed or incorporated by reference as a part of this report:
+40
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+41
