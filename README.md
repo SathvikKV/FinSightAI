@@ -1,9 +1,9 @@
 # FinSightAI: SEC Filings Intelligence Platform
 
-![FinSight AI Logo](docs/img/logo.PNG)
+
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=FinSightAI" alt="FinSightAI Logo" width="200"/>
+  <img src="docs/img/logo.PNG" alt="FinSightAI Logo" width="200"/>
   
   ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
   ![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg)
