@@ -41,7 +41,7 @@ Financial professionals struggle with:
 
 - **Frontend Application**: [http://34.201.119.237:3001/](http://34.201.119.237:3001/)
 - **Backend API Documentation**: [http://34.201.119.237:8001/docs](http://34.201.119.237:8001/docs)
-- **Video Demo**: []()
+- **Video Demo**: [https://drive.google.com/file/d/17a_tpuQzOXNCOQA9A9OGSFNw90Ll2BeQ/view?usp=sharing](https://drive.google.com/file/d/17a_tpuQzOXNCOQA9A9OGSFNw90Ll2BeQ/view?usp=sharing)
 
 
 ## 🏗️ Architecture
