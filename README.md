@@ -1,5 +1,7 @@
 # FinSightAI: SEC Filings Intelligence Platform
 
+![FinSight AI Logo](docs/img/logo.PNG)
+
 <div align="center">
   <img src="https://via.placeholder.com/200x200.png?text=FinSightAI" alt="FinSightAI Logo" width="200"/>
   
@@ -13,6 +15,8 @@
 ## 📊 Overview
 
 FinSightAI is an advanced financial intelligence platform that transforms SEC filings into actionable insights through AI-powered analysis. Our platform enables investors, analysts, and financial professionals to search, analyze, compare, and generate reports from SEC company filings using cutting-edge natural language processing and machine learning techniques.
+
+![FinSight AI Logo](docs/img/home.PNG)
 
 ## 🔍 Problem We Solve
 
@@ -34,24 +38,10 @@ Financial professionals struggle with:
 
 ## 🏗️ Architecture
 
+
 The FinSightAI platform consists of three main components:
 
-```
-┌─────────────────────┐     ┌───────────────────┐     ┌─────────────────┐
-│ Data Ingestion      │     │ Backend (FastAPI) │     │ Frontend (Next) │
-│ ──────────────────  │     │ ────────────────  │     │ ──────────────  │
-│ ▶ SEC Scraping      │────▶│ ▶ API Endpoints   │────▶│ ▶ User Interface│
-│ ▶ Text Extraction   │     │ ▶ RAG Processing  │     │ ▶ Visualizations│
-│ ▶ Chunking          │     │ ▶ Authentication  │     │ ▶ Report Editor │
-│ ▶ Vector Embedding  │     │ ▶ Report Gen      │     └─────────────────┘
-└─────────────────────┘     └───────────────────┘
-        │                            │
-        ▼                            ▼
-┌─────────────────┐        ┌─────────────────┐
-│  Pinecone DB    │        │ PostgreSQL (RDS)│
-│  (Vector Store) │        │ (User Data)     │
-└─────────────────┘        └─────────────────┘
-```
+![FinSight AI Logo](docs/img/architecture_diagram.png)
 
 ## 🚀 Technologies
 
@@ -159,6 +149,16 @@ FinSightAI is designed for deployment on AWS:
 
 4. (Optional) Set up Nginx reverse proxy and SSL
 
+
+## Screenshots
+
+![FinSight AI Home](docs/img/home.PNG)
+![FinSight AI Query](docs/img/query.PNG)
+![FinSight AI Explorer](docs/img/explorer.PNG)
+![FinSight AI AI Insights](docs/img/ai_insights_1.PNG)
+![FinSight AI AI Insights](docs/img/ai_insights_2.PNG)
+![FinSight AI Report](docs/img/report.PNG)
+
 ## Future Enhancements
 
 - Expand company coverage to 100+ companies
@@ -187,4 +187,4 @@ This project is licensed.
 
 Project Lead - [your.email@example.com](mailto:your.email@example.com)
 
-Project Link: [https://github.com/yourusername/finsightai](https://github.com/yourusername/finsightai)
+Project Link: [https://github.com/SathvikKV/FinSightAI](https://github.com/SathvikKV/FinSightAI)
