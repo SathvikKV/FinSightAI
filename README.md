@@ -185,6 +185,6 @@ This project is licensed.
 
 ## Contact
 
-Project Lead - [your.email@example.com](mailto:your.email@example.com)
+Project Lead - [vadavatha.s@northeastern.edu](vadavatha.s@northeastern.edu)
 
 Project Link: [https://github.com/SathvikKV/FinSightAI](https://github.com/SathvikKV/FinSightAI)
