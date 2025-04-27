@@ -36,6 +36,14 @@ Financial professionals struggle with:
 - **🔒 Secure Authentication**: User-based access control with JWT authentication
 - **☁️ Cloud Deployment**: Fully containerized application hosted on AWS
 
+
+## 🌟 Live Demo
+
+- **Frontend Application**: [http://34.201.119.237:3001/](http://34.201.119.237:3001/)
+- **Backend API Documentation**: [http://34.201.119.237:8001/docs](http://34.201.119.237:8001/docs)
+- **Video Demo**: []()
+
+
 ## 🏗️ Architecture
 
 
